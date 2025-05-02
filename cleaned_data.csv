@@ -1,0 +1,5 @@
+clean_text,label,encoded_label
+first document,A,0
+document second document,B,1
+third one,C,2
+first document,A,0
